@@ -1,0 +1,11 @@
+2021-04-16 19:24:58.021  INFO 4624 --- [main] com.waverly.graduateProject.LoggerTests  : Starting LoggerTests using Java 11.0.10 on W10-20210331651 with PID 4624 (started by 10958 in D:\CodeProjects\GraduateProject\gruduateProject)
+2021-04-16 19:24:58.023 DEBUG 4624 --- [main] com.waverly.graduateProject.LoggerTests  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-16 19:24:58.032  INFO 4624 --- [main] com.waverly.graduateProject.LoggerTests  : No active profile set, falling back to default profiles: default
+2021-04-16 19:25:01.956  INFO 4624 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-16 19:25:02.252  INFO 4624 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-04-16 19:25:02.919  INFO 4624 --- [main] com.waverly.graduateProject.LoggerTests  : Started LoggerTests in 5.923 seconds (JVM running for 8.19)
+2021-04-16 19:25:03.728 DEBUG 4624 --- [main] com.waverly.graduateProject.LoggerTests  : debug log
+2021-04-16 19:25:03.729  INFO 4624 --- [main] com.waverly.graduateProject.LoggerTests  : info log
+2021-04-16 19:25:03.729  WARN 4624 --- [main] com.waverly.graduateProject.LoggerTests  : warn log
+2021-04-16 19:25:03.729 ERROR 4624 --- [main] com.waverly.graduateProject.LoggerTests  : error log
+2021-04-16 19:25:03.755  INFO 4624 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

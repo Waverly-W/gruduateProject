@@ -1,0 +1,7 @@
+2021-04-16 19:35:29,479 INFO [main] c.w.g.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 11.0.10 on W10-20210331651 with PID 12420 (started by 10958 in D:\CodeProjects\GraduateProject\gruduateProject)
+2021-04-16 19:35:29,487 INFO [main] c.w.g.LoggerTests [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2021-04-16 19:35:33,316 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-16 19:35:33,623 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-04-16 19:35:34,268 INFO [main] c.w.g.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 6.042 seconds (JVM running for 8.197)
+2021-04-16 19:35:35,078 INFO [main] c.w.g.LoggerTests [LoggerTests.java:31] info log
+2021-04-16 19:35:35,104 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
